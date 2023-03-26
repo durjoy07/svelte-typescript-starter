@@ -1,0 +1,15 @@
+{
+	"recommendations": [
+		"arcanis.vscode-zipfs",
+		"dbaeumer.vscode-eslint",
+		"esbenp.prettier-vscode",
+		"eamodio.gitlens",
+		"graphql.vscode-graphql",
+		"bradlc.vscode-tailwindcss",
+		"christian-kohler.path-intellisense",
+		"mhutchie.git-graph",
+		"ambar.bundle-size",
+		"svelte.svelte-vscode",
+		"ardenivanov.svelte-intellisense"
+	]
+}

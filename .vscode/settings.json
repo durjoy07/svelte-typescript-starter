@@ -1,0 +1,18 @@
+{
+	"typescript.enablePromptUseWorkspaceTsdk": true,
+	"eslint.probe": [
+		"javascript",
+		"javascriptreact",
+		"typescript",
+		"typescriptreact",
+		"html",
+		"vue",
+		"markdown",
+		"svelte"
+	],
+	"compile-hero.disable-compile-files-on-did-save-code": true,
+	"css.lint.unknownAtRules": "ignore",
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true
+}
